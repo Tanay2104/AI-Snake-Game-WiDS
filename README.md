@@ -5,6 +5,8 @@ number of epochs = 16
 batch size = 200
 learning rate = 0.001
 
+I got 98.00% - 98.40% accuracy in my testing 
+
 These values are obtained from the following data I generated to obtain the maximum accuracy:
 Variation of hidden_size
 num_epochs = 2
