@@ -7,8 +7,8 @@ learning rate = 0.001
 
 These values are obtained from the following data I generated to obtain the maximum accuracy:
 Variation of hidden_size
-num_epochs ‎ = 2
-Learning_rate ‎ = 
+num_epochs = 2
+Learning_rate = 0.001
 batch_size = 100
 
 Hidden_size = 10: 91.46%
@@ -16,7 +16,6 @@ Hidden_size = 50: 93.95%
 Hidden_size = 100: 95.21%
 Hidden_size = 200: 96.10%
 Hidden_size = 500: 97.08%
-j1B
 Hidden_size = 2000: 97.74%
 Hidden_size = 3000: 97.63%
 Hidden_size = 4000: 97.56%
@@ -53,7 +52,7 @@ Learning_rate =0.10: 86.38%, 25.49s
 Variation of activation function
 num_epochs ‎ = 12
 Batch_size=200
-hidden_size=500
+hidden_size=500
 Learning_rate=0.001
 
 ReLU: 98.08%, 98.03%
